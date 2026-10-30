@@ -112,3 +112,18 @@
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Lordog/dive-into-llms&type=Date)](https://star-history.com/#Lordog/dive-into-llms&Date)
+My Learning Notes
+
+This is my personal fork of the Dive into LLMs tutorial.
+
+I am currently learning GitHub, Git, and AI development tools.
+
+Learning Progress
+
+* [x]	Clone a repository
+* [x]	Fork a repository
+* [ ]	Learn Fetch and Pull
+* [ ]	Learn Branch and Pull Request
+* [ ]	Explore Codex Skills
+
+Goal: Build a practical AI development workflow step by step.
