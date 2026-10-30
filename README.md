@@ -127,3 +127,9 @@ Learning Progress
 * [ ]	Explore Codex Skills
 
 Goal: Build a practical AI development workflow step by step.
+ ### Branch Experiment
+
+This line was added on the test branch.
+
+I am learning how Git branches work.
+
